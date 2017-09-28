@@ -12,3 +12,5 @@ SECRETS.txt
 *.py[cod]
 *.sqlite
 log_file.log
+
+.pyenv
